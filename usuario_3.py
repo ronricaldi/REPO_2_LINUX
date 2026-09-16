@@ -8,7 +8,7 @@ def menu_usuario_3():
               """)
         print("(1) Venta de un producto")
         print("(2) Aumentar producto a inventario")
-        print("(3) Salid del sistema")
+        print("(3) Salir del sistema")
         opcion = int(input("Ingrese la opcion requerida: "))
         if opcion == 1:
             print("Ingrese el codigo del producto a vender: ")
